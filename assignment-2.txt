@@ -1,0 +1,69 @@
+
+[A].   Array Methods In Javascript:-
+
+
+
+1.)  Array.push() : Adding Element at the end of an Array. As array in JavaScript are mutable object, we can easily add or remove elements                             from the Array. And it dynamically changes as we modify the elements from the array.
+               Syntax :
+                               Array.push(item1, item2 …)
+                               Parameters: Items to be added to an array.
+
+2.)  Array.unshift() : Adding elements at the front of an Array
+                  Syntax :
+                               Array.unshift(item1, item2 …)
+                               Parameters: Items to be added to the array
+
+3.)  Array.pop() : Removing elements from the end of an array
+                   Syntax:
+                               Array.pop()
+                               Parameters: It takes no parameter
+
+
+4.)  Array.shift() : Removing elements at the beginning of an array
+                  Syntax :
+                              Array.shift()
+                              Parameter : it takes no parameter
+
+5.)  Array.splice() : Insertion and Removal in between an Array. Splice is very useful method as it can remove and add elements from the                               particular location.
+                  Syntax:
+                             Array.splice (start, deleteCount, item 1, item 2….) 
+                             Parameters:  
+                                       Start : Location at which to perform operation
+                            deleteCount: Number of element to be deleted, if no element is to be deleted pass 0.
+                                                 Item1, item2 …..- this is an optional parameter . 
+                            These are the elements to be inserted from location start.
+
+
+[B].   Array Methods In Javascript:-
+
+
+
+
+
+1.)  JavaScript | string.length
+The string.length is a property in JavaScript which is used to find the length of a given string.
+Syntax:
+string.length
+
+2.)  JavaScript | string.replace()
+The string.replace() is an inbuilt function in JavaScript which is used to replace a part of the given string with some another string or a regular expression. The original string will remain unchanged.
+Syntax:
+str.replace(A, B)
+
+
+3.)  JavaScript | string.search() Method
+The string.search() method is the inbuilt method in JavaScript which is used to search for a match in between regular expressions and a given string object.
+
+Syntax:
+string.search( A )
+
+4.)  JavaScript | string.slice()
+The string.slice() is an inbuilt function in javascript which is used to return a part or slice of the given input string.
+Syntax:
+string.slice(startingindex, endingindex)
+
+
+5.)  JavaScript | string.toString()
+The string.toString() is an inbuilt function in JavaScript which is used to return the given string itself.
+Syntax:
+string.toString()
