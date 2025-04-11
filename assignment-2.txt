@@ -5,12 +5,12 @@
 
 1.)  Array.push() : Adding Element at the end of an Array. As array in JavaScript are mutable object, we can easily add or remove elements                             from the Array. And it dynamically changes as we modify the elements from the array.
                Syntax :
-                               Array.push(item1, item2 …)
+                               Array.push(item1, item2 â€¦)
                                Parameters: Items to be added to an array.
 
 2.)  Array.unshift() : Adding elements at the front of an Array
                   Syntax :
-                               Array.unshift(item1, item2 …)
+                               Array.unshift(item1, item2 â€¦)
                                Parameters: Items to be added to the array
 
 3.)  Array.pop() : Removing elements from the end of an array
@@ -26,15 +26,15 @@
 
 5.)  Array.splice() : Insertion and Removal in between an Array. Splice is very useful method as it can remove and add elements from the                               particular location.
                   Syntax:
-                             Array.splice (start, deleteCount, item 1, item 2….) 
+                             Array.splice (start, deleteCount, item 1, item 2â€¦.) 
                              Parameters:  
                                        Start : Location at which to perform operation
                             deleteCount: Number of element to be deleted, if no element is to be deleted pass 0.
-                                                 Item1, item2 …..- this is an optional parameter . 
+                                                 Item1, item2 â€¦..- this is an optional parameter . 
                             These are the elements to be inserted from location start.
 
 
-[B].   Array Methods In Javascript:-
+[B].   String Methods In Javascript:-
 
 
 
